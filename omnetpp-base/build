@@ -1,2 +1,0 @@
-#!/bin/sh
-docker build -t omnetpp/omnetpp-base:u22.04-1 .
